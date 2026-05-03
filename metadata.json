@@ -1,0 +1,6 @@
+{
+  "name": "StreamRipper Downloader",
+  "description": "A web-based video downloader that pipes media streams directly from the source to the user's browser without saving files to the server's local disk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
